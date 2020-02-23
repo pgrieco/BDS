@@ -5,4 +5,4 @@ You can open issues on this repository to report any typos or errors in the book
 
 For those using this book for teaching, my old course materials from Chicago Booth are at https://github.com/TaddyLab/MBAcourse.
 
-This version for test use. 
+This version for test use. And part two. 
